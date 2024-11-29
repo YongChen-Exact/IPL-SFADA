@@ -1,4 +1,4 @@
-# Bi-Domain Knowledge Facilitates Active Source-Free Domain Adaptation in Medical Image Segmentation
+# Source-Free Active Domain Adaptation for Medical Image Segmentation via Influential Points Learning
 
 This repository contains the supported pytorch code and configuration files to reproduce of BDK.
 
